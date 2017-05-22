@@ -1,0 +1,7 @@
+/**app.wxss**/
+.container {
+  height: 100%;
+  color: #333333;
+  font-size: 30rpx;
+  background-color: #f7f7f7;
+} 
